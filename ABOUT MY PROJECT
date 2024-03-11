@@ -1,0 +1,55 @@
+Tic Tac Toe GUI
+This is a simple Java Swing application implementing a Tic Tac Toe game with a graphical user interface (GUI). 
+The game features rounded buttons, very light pink color scheme, and the ability to use custom X and O images.
+
+Features
+Graphical user interface with rounded buttons.
+Very light pink color scheme for a pleasing aesthetic.
+Custom X and O images for a personalized touch.
+Simple and intuitive gameplay.
+How to Run
+Clone the repository to your local machine.
+Open the project in your preferred Java development environment.
+Compile and run the TicTacToeGUIIII class.
+Enjoy playing Tic Tac Toe!
+Customization
+You can replace the X and O images with your own images by modifying the imagePathX and imagePathO variables in the setIcon method of the TicTacToeGUIIII class.
+Feel free to customize the code to add more features or change the appearance according to your preferences.
+Screenshots
+Include screenshots or GIFs of your application in this section to showcase its appearance and features.
+
+Contributing
+If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. Contributions are always welcome!
+
+License
+This project is licensed under the MIT License.
+
+Feel free to modify this template based on your specific project details and preferences.
+Tic Tac Toe GUI
+This is a simple Java Swing application implementing a Tic Tac Toe game with a graphical user interface (GUI). 
+The game features rounded buttons, very light pink color scheme, and the ability to use custom X and O images.
+
+Features
+Graphical user interface with rounded buttons.
+Very light pink color scheme for a pleasing aesthetic.
+Custom X and O images for a personalized touch.
+Simple and intuitive gameplay.
+How to Run
+Clone the repository to your local machine.
+Open the project in your preferred Java development environment.
+Compile and run the TicTacToeGUIIII class.
+Enjoy playing Tic Tac Toe!
+Customization
+You can replace the X and O images with your own images by modifying the imagePathX and imagePathO variables in the setIcon method of the TicTacToeGUIIII class.
+Feel free to customize the code to add more features or change the appearance according to your preferences.
+Screenshots
+Include screenshots or GIFs of your application in this section to showcase its appearance and features.
+
+Contributing
+If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. Contributions are always welcome!
+
+License
+This project is licensed under the MIT License.
+
+Feel free to modify this template based on your specific project details and preferences.
+
